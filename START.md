@@ -26,4 +26,4 @@
           *   논문에서 착안한 개념 
               *   preference / confidence
                   *   preference : Indicator variabl (click 횟수 | 구매 횟수 >0 or not)
-                  *   confidence : $$ c_{ui} = 1 + \alpha p_{ui} 
+                  *   confidence : $c_{ui} = 1 + $\alpha p_{ui} 
